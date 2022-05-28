@@ -1,0 +1,40 @@
+/*Background manipulation*/
+body{
+    background: #1B2029;
+}
+
+/*Title manipulation*/
+main h2{
+    color: purple;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 12%;
+}
+
+/*Manipulate the form structure*/
+main form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*Color of the labels*/
+main form label{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+/*Color of the background the writing part*/
+main form input{
+    background: #161923;
+}
+
+/*Configuration from links*/
+a{
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
